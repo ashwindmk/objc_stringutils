@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ObjCStringUtils_Example' do
+  pod 'ObjCStringUtils', :path => '../'
+
+  target 'ObjCStringUtils_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
