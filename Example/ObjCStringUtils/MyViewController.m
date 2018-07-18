@@ -1,13 +1,12 @@
 
 #import "MyViewController.h"
-#import "ObjCStringUtils/StringUtils.h"
 
 @implementation MyViewController
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	
+    NSLog(@"Hello world");
 }
 
 - (void)didReceiveMemoryWarning

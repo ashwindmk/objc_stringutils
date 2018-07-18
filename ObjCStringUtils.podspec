@@ -27,10 +27,11 @@ Objective C utility plugin to perform string operations.
   s.author           = { 'Ashwin' => 'ashwin.dinesh01@gmail.com' }
   s.source           = { :git => 'https://github.com/ashwindmk/objc_stringutils.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.swift_version = '3.2'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'ObjCStringUtils/Classes/**/*'
+  s.source_files = 'ObjCStringUtils/Classes/StringUtils.{m,h}'
   
   # s.resource_bundles = {
   #   'ObjCStringUtils' => ['ObjCStringUtils/Assets/*.png']
