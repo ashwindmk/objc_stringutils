@@ -22,7 +22,7 @@ pod 'ObjCStringUtils'
 
 ## Author
 
-ashwindmk, ashwin.dinesh01@gmail.com
+Ashwin, ashwin.dinesh01@gmail.com
 
 ## License
 

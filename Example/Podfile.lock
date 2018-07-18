@@ -1,0 +1,16 @@
+PODS:
+  - ObjCStringUtils (0.1.0)
+
+DEPENDENCIES:
+  - ObjCStringUtils (from `../`)
+
+EXTERNAL SOURCES:
+  ObjCStringUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ObjCStringUtils: f72d922329b29ddc651167abe356075b8aa55d9a
+
+PODFILE CHECKSUM: c72dfd58f12e5a055e50755d70f2a57a147208ac
+
+COCOAPODS: 1.5.3

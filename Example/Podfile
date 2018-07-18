@@ -1,11 +1,10 @@
-use_frameworks!
+#use_frameworks!
 
 target 'ObjCStringUtils_Example' do
   pod 'ObjCStringUtils', :path => '../'
 
-  target 'ObjCStringUtils_Tests' do
+  target 'IOSStringUtils_Tests' do
     inherit! :search_paths
-
-    
   end
+
 end

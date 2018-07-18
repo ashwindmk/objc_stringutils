@@ -1,0 +1,6 @@
+framework module Pods_ObjCStringUtils_Example {
+  umbrella header "Pods-ObjCStringUtils_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

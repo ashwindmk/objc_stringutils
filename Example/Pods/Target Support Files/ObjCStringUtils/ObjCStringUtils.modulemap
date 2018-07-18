@@ -1,0 +1,6 @@
+framework module ObjCStringUtils {
+  umbrella header "ObjCStringUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}
